@@ -178,7 +178,55 @@ moe@linux:~$ curl -X POST contact --data '{"message": "Let'"'"'s build something
 
   Response: 200 OK — Available for Android contracts & collaborations
 ```
+## 🎨 Creative Side
 
+Beyond mobile development, I explore the intersection of **code and art**:
+
+- 🔮 **Generative Art** — Real 4D rotation matrices, particle systems, hypercube canvas renderers
+- 🎬 **Motion Design** — Logo animations, character animation, Myanmar cultural video production
+- 🌐 **Creative Web** — Cyberpunk-styled portfolio sites, dark terminal aesthetics, editorial layouts
+- 🤖 **AI-Generated Content** — Experimenting with generative visuals and creative AI workflows
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moekyawaung-designer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moekyawaung-designer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=moekyawaung-designer&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-moekyawaung--designer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moekyawaung-designer)
+[![Email](https://img.shields.io/badge/Email-moekyawaung%40graduate.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moekyawaung@graduate.org)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║  "Code is craft. Design is intention.        ║
+║   I build both with the same obsession."     ║
+║                          — Moe Kyaw Aung     ║
+╚══════════════════════════════════════════════╝
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=moekyawaung-designer&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 ---
 
 <div align="center">
@@ -186,7 +234,7 @@ moe@linux:~$ curl -X POST contact --data '{"message": "Let'"'"'s build something
 ```
 ┌─────────────────────────────────────────────────┐
 │  "First, solve the problem. Then, write the code." │
-│                              — John Johnson        │
+│                              — MOEKYAWAUNG 
 └─────────────────────────────────────────────────┘
 ```
 
