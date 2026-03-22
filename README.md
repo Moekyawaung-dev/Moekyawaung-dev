@@ -18,6 +18,30 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Moekyawaung-Linux&style=for-the-badge&color=00ff9f&label=VISITORS)
 
 </div>
+### `Android Developer` · `Motion Designer` · `Creative Technologist`
+### 📍 Tachileik, Myanmar
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Android+Apps+with+Jetpack+Compose;Crafting+Motion++%26+Generative+Art;Integrating+Gemini+AI+into+Mobile+Apps;MVVM+%7C+Kotlin+%7C+Firebase+%7C+Docker)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👾 About Me
+
+```kotlin
+data class MoeKyawAung(
+    val role: List<String> = listOf(
+        "Android Developer",
+        "Motion Designer",
+        "Creative Technologist"
+    ),
+    val location: String = "Tachileik, Myanmar 🇲🇲",
+    val languages: List<String> = listOf("Kotlin", "JavaScript", "TypeScript", "Burmese", "English"),
+    val currentFocus: String = "Building AI-powered Android apps & generative art tools",
+    val funFact: String = "I blend code with creativity — from MVVM architecture to 4D hypercube animations"
+)
+```
 
 ---
 
