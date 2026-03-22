@@ -90,6 +90,57 @@ drwxr-xr-x  projects/
 
 ---
 
+---
+
+## 🎓 Certifications & Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✅_Programming_Fundamentals-Certified-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/✅_Computer_Vision_(Python)-Certified-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/✅_Cybersecurity_Basics-Certified-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/✅_Web_Technologies-Certified-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/✅_Digital_Growth_Strategy-Certified-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔄_Jetpack_Compose-In_Progress-FF9800?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔄_Advanced_Architecture-In_Progress-FF9800?style=flat-square"/>
+</p>
+
+---
+
+## 📈 Weekly Dev Activity
+
+<!--START_SECTION:waka-->
+```text
+Kotlin       ██████████████░░░░░░   65%
+XML          ████░░░░░░░░░░░░░░░░   18%
+Python       ██░░░░░░░░░░░░░░░░░░    9%
+JSON         █░░░░░░░░░░░░░░░░░░░    5%
+Other        █░░░░░░░░░░░░░░░░░░░    3%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/moekyawaung">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:moekyawaung@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/MoeKyawAung">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://twitter.com/moekyawaung">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## `$ htop` — GitHub Stats
 
 <div align="center">
